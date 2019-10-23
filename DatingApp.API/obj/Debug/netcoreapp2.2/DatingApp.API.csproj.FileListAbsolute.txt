@@ -1,0 +1,14 @@
+C:\Users\Carine\Documents\AKKA\Tuto\DatingApp\DatingApp.API\bin\Debug\netcoreapp2.2\DatingApp.API.deps.json
+C:\Users\Carine\Documents\AKKA\Tuto\DatingApp\DatingApp.API\bin\Debug\netcoreapp2.2\DatingApp.API.runtimeconfig.json
+C:\Users\Carine\Documents\AKKA\Tuto\DatingApp\DatingApp.API\bin\Debug\netcoreapp2.2\DatingApp.API.runtimeconfig.dev.json
+c:\Users\Carine\Documents\AKKA\Tuto\DatingApp\DatingApp.API\bin\Debug\netcoreapp2.2\DatingApp.API.dll
+c:\Users\Carine\Documents\AKKA\Tuto\DatingApp\DatingApp.API\bin\Debug\netcoreapp2.2\DatingApp.API.pdb
+c:\Users\Carine\Documents\AKKA\Tuto\DatingApp\DatingApp.API\obj\Debug\netcoreapp2.2\DatingApp.API.csprojAssemblyReference.cache
+c:\Users\Carine\Documents\AKKA\Tuto\DatingApp\DatingApp.API\obj\Debug\netcoreapp2.2\DatingApp.API.csproj.CoreCompileInputs.cache
+c:\Users\Carine\Documents\AKKA\Tuto\DatingApp\DatingApp.API\obj\Debug\netcoreapp2.2\DatingApp.API.RazorAssemblyInfo.cache
+c:\Users\Carine\Documents\AKKA\Tuto\DatingApp\DatingApp.API\obj\Debug\netcoreapp2.2\DatingApp.API.RazorAssemblyInfo.cs
+c:\Users\Carine\Documents\AKKA\Tuto\DatingApp\DatingApp.API\obj\Debug\netcoreapp2.2\DatingApp.API.AssemblyInfoInputs.cache
+c:\Users\Carine\Documents\AKKA\Tuto\DatingApp\DatingApp.API\obj\Debug\netcoreapp2.2\DatingApp.API.AssemblyInfo.cs
+c:\Users\Carine\Documents\AKKA\Tuto\DatingApp\DatingApp.API\obj\Debug\netcoreapp2.2\DatingApp.API.RazorTargetAssemblyInfo.cache
+c:\Users\Carine\Documents\AKKA\Tuto\DatingApp\DatingApp.API\obj\Debug\netcoreapp2.2\DatingApp.API.dll
+c:\Users\Carine\Documents\AKKA\Tuto\DatingApp\DatingApp.API\obj\Debug\netcoreapp2.2\DatingApp.API.pdb
