@@ -21,7 +21,7 @@ namespace DatingApp.API
         public Startup(IConfiguration configuration)
         {
             this.Configuration = configuration;
-
+ 
         }
         public IConfiguration Configuration { get; }
 
